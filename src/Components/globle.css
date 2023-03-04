@@ -1,0 +1,29 @@
+.divblock{
+   
+   background-color: skyblue;
+   height: auto;
+   width: auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: center; 
+
+}
+.divlist ul{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.divlist ul li a{
+    text-decoration: none;
+    color: orange;
+}
+li{
+    list-style: none;
+}
+img{
+    height: 30px;
+    width: 50px;
+    padding: 10px;
+}

@@ -1,0 +1,10 @@
+.amaz{
+    border: 2px solid rgba(43, 226, 165, 0.014);
+    height: auto;
+    width: auto;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    background-color: rgba(219, 240, 128, 0.548);
+}

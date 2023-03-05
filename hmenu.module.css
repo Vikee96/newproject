@@ -1,0 +1,16 @@
+#menu ol{
+    
+    display: flex;
+    width: 700px;
+    justify-content: space-evenly ;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#menu ol li a{
+    color: white;
+    font-size: 20px;
+}

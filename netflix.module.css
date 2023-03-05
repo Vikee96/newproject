@@ -1,0 +1,14 @@
+.Net{
+    border: 2px solid rgba(255, 0, 0, 0.007);
+    background-color: slateblue ;
+    height: auto;
+    width: auto;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Net h1{
+    color: blue;
+    margin-left: 30px;
+}

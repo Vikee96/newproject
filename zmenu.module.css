@@ -1,0 +1,13 @@
+#zoma ol{
+    display: flex;
+    width: 1000px;
+    justify-content: space-evenly;
+    font-size: 20px;
+}
+#zoma ol li a{
+    color: brown;
+
+}
+#zoma ol li input{
+    background-color: rgba(165, 42, 42, 0);
+}
